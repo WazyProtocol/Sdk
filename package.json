@@ -1,0 +1,16 @@
+{
+  "name": "wazy",
+  "version": "0.0.1",
+  "description": "Undefined existence. No memory. No return.",
+  "main": "cli/index.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "cli": "node cli/index.js"
+  },
+  "keywords": ["abstract", "existence", "void"],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
