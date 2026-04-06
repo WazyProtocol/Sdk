@@ -1,7 +1,12 @@
 # Wazy
 
 Pump.fun : 7NmCP7PHgHi7TWekZZCDGXsKv8ekZJx7kSAr7TSppump
+Lock steamflow : 
+🔐 Just locked 34,121,000 $WAZY tokens with @Streamflow_Fi 
+It's on-chain. You can check the amount, time-period and recipients.
 
+Check it out👇
+https://app.streamflow.finance/contract/solana/mainnet/2xfTsr7VCDG9HNNnzRweUYnCBf6Wzm4Y9ba67yVBtBE6?ref=rancorously-volcanic-sawfish 
 > Something changed him—undefined.  
 > No memory. No beginning. No return.  
 > Just the stillness of existence.
