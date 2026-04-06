@@ -1,5 +1,7 @@
 # Wazy
 
+Pump.fun : 7NmCP7PHgHi7TWekZZCDGXsKv8ekZJx7kSAr7TSppump
+
 > Something changed him—undefined.  
 > No memory. No beginning. No return.  
 > Just the stillness of existence.
